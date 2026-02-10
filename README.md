@@ -1,2 +1,2 @@
 # raamiz.github.io
-leechblock redirec
+leechblock redirect
